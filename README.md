@@ -7,7 +7,7 @@
 
 ## 🚀 線上試用 & 下載 (Demo & Download)
 
-* 🌐 **Web 網頁版**：[點此立即使用](https://Waterma39.github.io/workrest/) *(或填寫你的 Vercel 網址)*
+* 🌐 **Web 網頁版**：[點此立即使用]([(https://wordrest-theta.vercel.app/)]) *(或填寫你的 Vercel 網址)*
 * 📱 **Android APP 下載**：[下載 摸魚.apk](./摸魚.apk)
 
 ---
