@@ -30,12 +30,6 @@
 
 ---
 
-## 📸 畫面預覽 (Preview)
-
-![專案預覽圖](./work.jpg)
-
----
-
 ## 📄 授權條款 (License)
 
 MIT License
